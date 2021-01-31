@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Door 3 close.wav-3c81cb304260e6840a005d88815dab9d.sample"
+
+[deps]
+
+source_file="res://audio/sfx/Door/Door 3 close.wav"
+dest_files=[ "res://.import/Door 3 close.wav-3c81cb304260e6840a005d88815dab9d.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

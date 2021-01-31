@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Grandpa Street Loop.wav-9bc462c6d70f6387a4ec2d1d73189d0c.sample"
+
+[deps]
+
+source_file="res://audio/Grandpa Street Loop.wav"
+dest_files=[ "res://.import/Grandpa Street Loop.wav-9bc462c6d70f6387a4ec2d1d73189d0c.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

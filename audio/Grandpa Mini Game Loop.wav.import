@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Grandpa Mini Game Loop.wav-7727405c3c43a71c64c1fccbcd69aafe.sample"
+
+[deps]
+
+source_file="res://audio/Grandpa Mini Game Loop.wav"
+dest_files=[ "res://.import/Grandpa Mini Game Loop.wav-7727405c3c43a71c64c1fccbcd69aafe.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
